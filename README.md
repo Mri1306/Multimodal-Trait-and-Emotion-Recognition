@@ -30,16 +30,5 @@ Benchmark evaluation with latency, diversity, and empathy metrics
 
 
 🏗 System Architecture
-User Input + Metadata
-       │
-       ▼
- Perception Agent  →  Emotion Classification
-       │
-       ▼
- Inference Agent   →  Big Five Trait Scoring
-       │
-       ▼
- Retrieval Memory  →  Context from past interactions
-       │
-       ▼
- Dialogue Agent    →  Empathic, trait-aware response
+
+User Input + Metadata -----> Perception Agent  →  Emotion Classification -----> Inference Agent   →  Big Five Trait Scoring -----> Retrieval Memory  →  Context from past interactions -----> Dialogue Agent    →  Empathic, trait-aware response
