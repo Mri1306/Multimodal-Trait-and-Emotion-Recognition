@@ -1,0 +1,67 @@
+[
+  {
+    "transcript": "I am feeling a bit down, I don't know why. What should i do?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I'm sorry, I'm having trouble processing your request right now. Please try again.",
+    "timestamp": 1751310962.0758576
+  },
+  {
+    "transcript": "I am feeling a bit down, I don't know why. What should i do?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I'm here to listen and help. What's on your mind?",
+    "timestamp": 1751313501.5160413
+  },
+  {
+    "transcript": "I am feeling a bit down, I don't know why. What should i do?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.4,
+      "agreeableness": 0.5,
+      "neuroticism": 0.7
+    },
+    "response": "I hear that you're feeling down. It's completely normal to have these feelings sometimes. Sometimes it helps to do something small and kind for yourself.",
+    "timestamp": 1751314173.0936809
+  },
+  {
+    "transcript": "I am feeling a bit down, I don't know why. What should i do?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.4,
+      "agreeableness": 0.5,
+      "neuroticism": 0.7
+    },
+    "response": "It sounds like you're having a difficult moment. Remember that it's okay to feel sad sometimes. Sometimes it helps to do something small and kind for yourself.",
+    "timestamp": 1751314471.5825512
+  },
+  {
+    "transcript": "I am feeling a bit down, I don't know why. What should i do?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.4,
+      "agreeableness": 0.5,
+      "neuroticism": 0.7
+    },
+    "response": "It sounds like you're having a difficult moment. Remember that it's okay to feel sad sometimes. Sometimes it helps to do something small and kind for yourself.",
+    "timestamp": 1751314833.661063
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "transcript": "Hey, I am Sam. How are you?",
+    "response_time": "fast",
+    "body_language": "leaning forward with steady eye contact",
+    "speech_attributes": "confident"
+  },
+  {
+    "transcript": "I came to you because I don't understand a lot of things in life right now. I am seeking ways to better myself.",
+    "response_time": "medium",
+    "body_language": "relaxed posture",
+    "speech_attributes": "calm"
+  },
+  {
+    "transcript": "Can you explain how you support a close friend who is struggling, even when you don't feel comfortable discussing their issues directly?",
+    "response_time": "medium",
+    "body_language": "open posture with patient nodding",
+    "speech_attributes": "supportive"
+  },
+  {
+    "transcript": "There was a time I really wanted to go on a trip but couldn't focus on anything else due to it. I don't knwo why i couldn't. I am still confused. ",
+    "response_time": "fast",
+    "body_language": "excited gestures with a confident smile",
+    "speech_attributes": "Confused"
+  },
+  {
+    "transcript": "How do you make a decision while balancing your emotions and logical thinking?",
+    "response_time": "medium",
+    "body_language": "tapping fingers with a thoughtful look",
+    "speech_attributes": "balanced"
+  },
+  {
+    "transcript": "When making choices, how  do you value the opinions of others compared to your own perspective? Any thoughts?",
+    "response_time": "Fast",
+    "body_language": "hands open, occasional glances away",
+    "speech_attributes": "open to input"
+  },
+  {
+    "transcript": "tHere was a time in life when i was at a very low point. I didn't know what to do. And I still don't",
+    "response_time": "slow",
+    "body_language": "brief pacing, then standing still",
+    "speech_attributes": "reflective"
+  },
+  {
+    "transcript": "These days, I have been thinking of joining or creating my own Cricket Team. Maybe I will.",
+    "response_time": "fast",
+    "body_language": "slightly shaking hands with quick blinking",
+    "speech_attributes": "physical response"
+  },
+  {
+    "transcript": "Any Idea how to manage you emotional state, when in crisis?",
+    "response_time": "medium",
+    "body_language": "open hands with a calming breath",
+    "speech_attributes": "balanced"
+  },
+  {
+    "transcript": "If a problem feels too personal, should you talk to someone about it, or should you keep it to yourself?",
+    "response_time": "slow",
+    "body_language": "arms crossed then opening slightly",
+    "speech_attributes": "reflective"
+  },
+  {
+    "transcript": "When faced with many problems at once, how do you decide whose advice to follow?",
+    "response_time": "slow",
+    "body_language": "hands through hair, then pointing while explaining",
+    "speech_attributes": "advice-seeking"
+  },
+  {
+    "transcript": "What makes you feel approachable so others can share their thoughts with you?",
+    "response_time": "medium",
+    "body_language": "open arms with relaxed posture",
+    "speech_attributes": "approachable"
+  },
+  {
+    "transcript": "Why do you think empathy is important for effective communication?",
+    "response_time": "fast",
+    "body_language": "mirroring gentle facial expressions",
+    "speech_attributes": "empathetic"
+  },
+  {
+    "transcript": "When you feel panic, how do you calm yourself down and regain control?",
+    "response_time": "slow",
+    "body_language": "widened eyes, then calm gestures",
+    "speech_attributes": "self-soothing"
+  },
+  {
+    "transcript": "I have having inner struggles with myself.",
+    "response_time": "fast",
+    "body_language": "Eyes down, crounched",
+    "speech_attributes": "Sadness"
+  },
+  {
+    "transcript": "I got selected for a Football team. I am pumped to join them.",
+    "response_time": "fast",
+    "body_language": "hands clasped with a small nod",
+    "speech_attributes": "trust-building"
+  },
+  {
+    "transcript": "I feel like, i have over the last few years a lot. I feel amazing.",
+    "response_time": "Fast",
+    "body_language": "pausing while reflecting",
+    "speech_attributes": "COnfident"
+  },
+  {
+    "transcript": "These days, so much work i have. i don't know how to complete the work.",
+    "response_time": "medium",
+    "body_language": "hands gesturing slowly, sighing",
+    "speech_attributes": "thoughtful"
+  },
+  {
+    "transcript": "I am feeling do much rage. I can't express it and it keeps rising.",
+    "response_time": "Fast",
+    "body_language": "Agitated",
+    "speech_attributes": "High Voice"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "transcript": "Hey, I am Sam. How are you?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.6,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331378.1040542,
+    "processing_time": 0.26
+  },
+  {
+    "transcript": "I came to you because I don't understand a lot of things in life right now. I am seeking ways to better myself.",
+    "emotion": "Confused",
+    "traits": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "response": "I can see you're feeling uncertain. What's been puzzling you?",
+    "timestamp": 1751331378.2155612,
+    "processing_time": 0.08
+  },
+  {
+    "transcript": "Can you explain how you support a close friend who is struggling, even when you don't feel comfortable discussing their issues directly?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331378.3247435,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "There was a time I really wanted to go on a trip but couldn't focus on anything else due to it. I don't knwo why i couldn't. I am still confused. ",
+    "emotion": "Confused",
+    "traits": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extraversion": 0.6,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "response": "I can see you're feeling uncertain. What's been puzzling you?",
+    "timestamp": 1751331378.436452,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "How do you make a decision while balancing your emotions and logical thinking?",
+    "emotion": "Confused",
+    "traits": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "response": "I can see you're feeling uncertain. What's been puzzling you?",
+    "timestamp": 1751331378.5468855,
+    "processing_time": 0.08
+  },
+  {
+    "transcript": "When making choices, how  do you value the opinions of others compared to your own perspective? Any thoughts?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331378.6533935,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "tHere was a time in life when i was at a very low point. I didn't know what to do. And I still don't",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.6,
+      "extraversion": 0.3,
+      "agreeableness": 0.6,
+      "neuroticism": 0.7
+    },
+    "response": "I'm sorry you're feeling down. Would you like to talk about what's been weighing on you?",
+    "timestamp": 1751331378.7619116,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "These days, I have been thinking of joining or creating my own Cricket Team. Maybe I will.",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.6,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331378.8714204,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "Any Idea how to manage you emotional state, when in crisis?",
+    "emotion": "Confused",
+    "traits": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "response": "I can see you're feeling uncertain. What's been puzzling you?",
+    "timestamp": 1751331378.9819393,
+    "processing_time": 0.08
+  },
+  {
+    "transcript": "If a problem feels too personal, should you talk to someone about it, or should you keep it to yourself?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.6,
+      "extraversion": 0.5,
+      "agreeableness": 0.6,
+      "neuroticism": 0.7
+    },
+    "response": "I'm sorry you're feeling down. Would you like to talk about what's been weighing on you?",
+    "timestamp": 1751331379.0894566,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "When faced with many problems at once, how do you decide whose advice to follow?",
+    "emotion": "Confused",
+    "traits": {
+      "openness": 0.6,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.6
+    },
+    "response": "I can see you're feeling uncertain. What's been puzzling you?",
+    "timestamp": 1751331379.1989725,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "What makes you feel approachable so others can share their thoughts with you?",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331379.3074815,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "Why do you think empathy is important for effective communication?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.4,
+      "agreeableness": 0.6,
+      "neuroticism": 0.7
+    },
+    "response": "I'm sorry you're feeling down. Would you like to talk about what's been weighing on you?",
+    "timestamp": 1751331379.4119897,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "When you feel panic, how do you calm yourself down and regain control?",
+    "emotion": "Sad",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.6,
+      "extraversion": 0.3,
+      "agreeableness": 0.6,
+      "neuroticism": 0.7
+    },
+    "response": "I'm sorry you're feeling down. Would you like to talk about what's been weighing on you?",
+    "timestamp": 1751331379.5194979,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "I have having inner struggles with myself.",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.6,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. How can I support you today?",
+    "timestamp": 1751331379.624009,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "I got selected for a Football team. I am pumped to join them.",
+    "emotion": "Excited",
+    "traits": {
+      "openness": 0.7,
+      "conscientiousness": 0.5,
+      "extraversion": 0.9,
+      "agreeableness": 0.5,
+      "neuroticism": 0.3
+    },
+    "response": "I hear you. How are you doing?",
+    "timestamp": 1751331379.7328308,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "I feel like, i have over the last few years a lot. I feel amazing.",
+    "emotion": "Happy",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.7,
+      "agreeableness": 0.6,
+      "neuroticism": 0.3
+    },
+    "response": "I'm so glad to hear you're feeling good! What's been going well for you?",
+    "timestamp": 1751331379.8408496,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "These days, so much work i have. i don't know how to complete the work.",
+    "emotion": "Neutral",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.5,
+      "agreeableness": 0.5,
+      "neuroticism": 0.5
+    },
+    "response": "I hear you. It's okay not to have all the answers. Sometimes talking through things can help bring clarity.",
+    "timestamp": 1751331379.9498942,
+    "processing_time": 0.07
+  },
+  {
+    "transcript": "I am feeling do much rage. I can't express it and it keeps rising.",
+    "emotion": "Angry",
+    "traits": {
+      "openness": 0.5,
+      "conscientiousness": 0.5,
+      "extraversion": 0.6,
+      "agreeableness": 0.2,
+      "neuroticism": 0.8
+    },
+    "response": "I can sense your frustration. What happened that's got you feeling this way?",
+    "timestamp": 1751331380.058401,
+    "processing_time": 0.07
+  }
+]
